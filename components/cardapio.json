@@ -1,0 +1,54 @@
+{
+  "Entradas": [
+    {
+      "nome": "Salada",
+      "imagem": "salada",
+      "descricao": "A Salada Caesar é preparada com alface romana, croutons, queijo parmesão e um molho especial à base de alho, limão, mostarda e anchovas."
+    },
+    {
+      "nome": "Bruschetta",
+      "imagem": "bruschetta",
+      "descricao": "A Bruschetta é uma entrada italiana feita com fatias de pão tostado, cobertas com tomate picado, alho, azeite e manjericão."
+    },
+    {
+      "nome": "Ceviche",
+      "imagem": "ceviche",
+      "descricao": "O Ceviche é um prato típico da culinária peruana, feito com peixe cru marinado em suco de limão, cebola roxa, pimenta e coentro."
+    }
+  ],
+  "Pratos": [
+    {
+      "nome": "Feijoada",
+      "imagem": "feijoada",
+      "descricao": "Feijoada é um guisado de feijão, normalmente com carne, acompanhado com arroz."
+    },
+    {
+      "nome": "Virado à Paulista",
+      "imagem": "virado",
+      "descricao": "O Virado à Paulista é preparado com feijão cozido, refogado e servido com arroz e acompanhamentos."
+    },
+    {
+      "nome": "Strogonoff",
+      "imagem": "strogonoff",
+      "descricao": "Estrogonofe é um prato russo composto de cubos de carne bovina servidos num molho de creme de leite."
+    }
+  ],
+  "Sobremesas": [
+    {
+      "nome": "Pudim",
+      "imagem": "pudim",
+      "descricao": "Pudim é uma sobremesa feita à base de leite condensado, ovos e leite, cozida em banho-maria e caramelizada."
+    },
+    {
+      "nome": "Brigadeiro",
+      "imagem": "brigadeiro",
+      "descricao": "O Brigadeiro é um doce típico brasileiro feito com leite condensado, chocolate em pó e manteiga."
+    },
+    {
+      "nome": "Torta de Limão",
+      "imagem": "torta",
+      "descricao": "A Torta de Limão é uma sobremesa clássica feita com base de biscoito, recheio cremoso de limão e cobertura de merengue."
+    }
+  ]
+}
+
