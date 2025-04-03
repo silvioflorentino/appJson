@@ -1,4 +1,4 @@
-
+<h1> Uma única tela recebendo conteúdos diferentes via json</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/618a318d-6ff1-47c8-af9b-ccc8a9a6efab" width="200" />
   <img src="https://github.com/user-attachments/assets/73b32a76-3fcd-42a6-9ece-96d0d99d6284" width="200" />
